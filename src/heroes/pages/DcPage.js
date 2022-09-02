@@ -1,5 +1,10 @@
 import React from "react";
 
 export const DcPage = () => {
-  return <div>DcPage</div>;
+  return (
+    <div>
+      <h1>DcPage</h1>
+      <hr />
+    </div>
+  );
 };
